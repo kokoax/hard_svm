@@ -21,3 +21,5 @@ erl_crash.dump
 
 # 実行ごとに変わるので
 plot/*
+
+hard_svm
