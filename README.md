@@ -1,6 +1,10 @@
 # HardSvm
 
 **TODO: Add description**
+```
+$ mix escript.build
+$ ./hard_svm
+```
 
 ## Installation
 
